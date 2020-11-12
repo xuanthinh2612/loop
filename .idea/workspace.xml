@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d170a0d2-d3f4-4168-b094-7136a312fffb" name="Default Changelist" comment="" />
+    <list default="true" id="d170a0d2-d3f4-4168-b094-7136a312fffb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BMI/BMI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BMI/BMI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +24,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1k8jbt07JECWKNUOgGGSRHVmMBc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,11 +60,18 @@
       <updated>1605089186828</updated>
       <workItem from="1605089187929" duration="749000" />
       <workItem from="1605102354458" duration="6707000" />
-      <workItem from="1605150014692" duration="9710000" />
+      <workItem from="1605150014692" duration="14280000" />
+      <workItem from="1605168332932" duration="1436000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="189" key="run.anything.popup" timestamp="1605167617081">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1605167617081" />
   </component>
 </project>

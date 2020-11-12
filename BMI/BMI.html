@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Body Mass Index</title>
+    <style>
+        label {
+            float: left;
+        }
+    </style>
+</head>
+<body>
+<h3>Body Mass Index</h3>
+<form>
+    <label style="width: 150px" for="weight">Nhập cân nặng: </label>
+    <input type="number" id="weight">
+    <br>
+    <br>
+    <label style="width: 150px" for="height">Nhập chiều cao: </label>
+    <input type="number" id="height">
+    <input type="button" onclick="checkbmi()" value="Check BIM" style="left: 350px; position: absolute">
+    <input type="reset" value="Reset" style="left: 450px; position: absolute">
+    <br>
+    <br>
+    <span id="result" style="left: 200px; position: absolute; color: red; font-style: initial"></span>
+</form>
+</body>
+<script src = BMI.js></script>
+</html>
+
