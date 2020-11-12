@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d170a0d2-d3f4-4168-b094-7136a312fffb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mouseEvent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soccer_ball.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mouseEvent.html" beforeDir="false" afterPath="$PROJECT_DIR$/mouseEvent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +41,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CODEGYM_COURSE\codegym_Module1\9. Cấu trúc điều kiện 2\keyBoardEvent" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,7 +56,7 @@
       <updated>1605089186828</updated>
       <workItem from="1605089187929" duration="749000" />
       <workItem from="1605102354458" duration="6707000" />
-      <workItem from="1605150014692" duration="425000" />
+      <workItem from="1605150014692" duration="8944000" />
     </task>
     <servers />
   </component>
