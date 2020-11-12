@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d170a0d2-d3f4-4168-b094-7136a312fffb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Switch-case/switch-case.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch-case/switch-case.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doYouLoveMe/doYouLoveMe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doYouLoveMe/doYouLoveMe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gamePuzzle/gamePuzzle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gamePuzzle/gamePuzzle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplycalculator/simplyCalculator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplycalculator/simplyCalculator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mouseEvent.js" beforeDir="false" afterPath="$PROJECT_DIR$/mouseEvent.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +51,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CODEGYM_COURSE\codegym_Module1\9. Cấu trúc điều kiện 2" />
       <recent name="D:\CODEGYM_COURSE\codegym_Module1\9. Cấu trúc điều kiện 2\keyBoardEvent" />
     </key>
   </component>
@@ -60,7 +66,7 @@
       <workItem from="1605089187929" duration="749000" />
       <workItem from="1605102354458" duration="6707000" />
       <workItem from="1605150014692" duration="14280000" />
-      <workItem from="1605168332932" duration="2790000" />
+      <workItem from="1605168332932" duration="8668000" />
     </task>
     <servers />
   </component>

@@ -6,7 +6,7 @@ function int() {
     img.style.left = 0 + 'px'
 }
 
-window.onload = int;
+
 
 function moveleft() {
     img.style.left = parseInt(img.style.left) - 10 + 'px';
@@ -15,3 +15,4 @@ function moveleft() {
 function moveright() {
     img.style.left = parseInt(img.style.left) + 10 + 'px';
 }
+window.onload = int;
