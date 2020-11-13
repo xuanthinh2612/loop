@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Luyện tập cấu trúc điều kiện 2</title>
+</head>
+<body>
+<h3>Bài 1: Chuyển từ độ C sang độ F</h3>
+<form>
+    <label for="bai1">Nhập vào độ C: </label>
+    <input type="number" id="bai1" width="150px"><br><br>
+    <input type="button" onclick="bai1doinhietdo()" value="Check">
+</form>
+</body>
+<body>
+<h3>Bài 2: Chuyển từ mét sang fit</h3>
+<form>
+    <label for="bai2">Nhập vào độ độ dài m: </label>
+    <input type="number" id="bai2" width="150px"><br><br>
+    <input type="button" onclick="bai2doidodai()" value="Check">
+</form>
+</body>
+<body>
+<h3>Bài 3: tính diện tích hình vuông</h3>
+<form>
+    <label for="bai3">Nhập vào độ  dài cạnh hình vuông: </label>
+    <input type="number" id="bai3" width="150px"><br><br>
+    <input type="button" onclick="bai3dthv()" value="Check">
+</form>
+</body>
+<body>
+<h3>Bài 4: Tính diện tích hình chữ nhật biết cạnh a,b</h3>
+<form>
+    <label for="bai41">Nhập vào số a: </label>
+    <input type="number" id="bai41" width="150px">
+    <br>
+    <br>
+    <label for="bai42">Nhập vào số b: </label>
+    <input type="number" id="bai42" width="150px">
+    <br>
+    <br>
+    <input type="button" onclick="bai42tinhdthcn()" value="Check">
+</form>
+</body>
+<body>
+<h3>Bài 5: Tính diện tích tam giác vuông biết cạnh a,b</h3>
+<form>
+    <label for="bai51">Nhập vào số a: </label>
+    <input type="number" id="bai51" width="150px">
+    <br>
+    <br>
+    <label for="bai52">Nhập vào số b: </label>
+    <input type="number" id="bai52" width="150px">
+    <br>
+    <br>
+    <input type="button" onclick="bai52tinhdthtg()" value="Check">
+</form>
+</body>
+<body>
+<h3>Bài 6: Giải phương trình bậc 1</h3>
+<form>
+    <label for="bai61">Nhập vào số a: </label>
+    <input type="number" id="bai61" width="150px">
+    <br>
+    <br>
+    <label for="bai62">Nhập vào số b: </label>
+    <input type="number" id="bai62" width="150px">
+    <br>
+    <br>
+    <input type="button" onclick="bai62tinhptbn()" value="Check">
+</form>
+</body>
+<body>
+<h3>Bài 7: Giải phương trình bậc 2</h3>
+<form>
+    <label for="bai71">Nhập vào số a: </label>
+    <input type="number" id="bai71" width="150px">
+    <br>
+    <br>
+    <label for="bai72">Nhập vào số b: </label>
+    <input type="number" id="bai72" width="150px">
+    <br>
+    <br>
+    <label for="bai73">Nhập vào số c: </label>
+    <input type="number" id="bai73" width="150px">
+    <br>
+    <br>
+    <input type="button" onclick="bai72tinhptbh()" value="Check">
+</form>
+</body>
+<body>
+<h3>Bài 8: Chuyển từ độ C sang độ F</h3>
+<form>
+    <label for="bai8">Nhập vào độ tuổi: </label>
+    <input type="number" id="bai8" width="150px"><br><br>
+    <input type="button" onclick="bai8kttuoi()" value="Check">
+</form>
+</body>
+<body>
+<h3>Bài 9: kiểm tra cạnh của hình tam giác</h3>
+<form>
+    <label for="bai91">Nhập vào cạnh số 1: </label>
+    <input type="number" id="bai91" width="150px">
+    <br>
+    <br>
+    <label for="bai92">Nhập vào cạnh số 2: </label>
+    <input type="number" id="bai92" width="150px">
+    <br>
+    <br>
+    <label for="bai93">Nhập vào cạnh số 3: </label>
+    <input type="number" id="bai93" width="150px">
+    <br>
+    <br>
+    <input type="button" onclick="bai9kthinhtamgiac()" value="Check">
+</form>
+</body>
+<body>
+<h3>Bài 10: Tính số tiền điện</h3>
+<form>
+    <label for="bai10">Nhập vào số điện: </label>
+    <input type="number" id="bai10" width="150px"><br><br>
+    <input type="button" onclick="bai10tinhtiendien()" value="Check">
+</form>
+</body>
+<body>
+<h3>Bài 11: Tính thuế thu nhập cá nhân</h3>
+<form>
+    <label for="bai11">Nhập vào tiền lương hàng tháng: </label>
+    <input type="number" id="bai11" width="150px"><br><br>
+    <input type="button" onclick="bai11tinhthuetncn()" value="Check">
+</form>
+</body>
+<body>
+<h3>Bài 12: Tính lãi suất ngân hàng (lãi suất 1%/tháng)</h3>
+<form>
+    <label for="bai121">Nhập vào số tiền vay: </label>
+    <input type="number" id="bai121" width="150px"><br><br>
+    <label for="bai122">Nhập vào số tháng vay: </label>
+    <input type="number" id="bai122" width="150px"><br><br>
+    <input type="button" onclick="bai12tinhlsnh()" value="Check">
+</form>
+</body>
+
+
+<script src="luyenTapCauTrucDieuKien2.js"></script>
+
+</html>

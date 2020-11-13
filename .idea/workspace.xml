@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d170a0d2-d3f4-4168-b094-7136a312fffb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/luyenTapCauTrucDieuKien1/luyenTapCauTrucDieuKien1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/luyenTapCauTrucDieuKien1/luyenTapCauTrucDieuKien1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyenTapCauTrucDieuKien2/luyenTapCauTrucDieuKien2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyenTapCauTrucDieuKien2/luyenTapCauTrucDieuKien2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doYouLoveMe/doYouLoveMe.js" beforeDir="false" afterPath="$PROJECT_DIR$/doYouLoveMe/doYouLoveMe.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CODEGYM_COURSE\codegym_Module1\9. Cấu trúc điều kiện 2\luyenTapCauTrucDieuKien2" />
       <recent name="D:\CODEGYM_COURSE\codegym_Module1\9. Cấu trúc điều kiện 2" />
       <recent name="D:\CODEGYM_COURSE\codegym_Module1\9. Cấu trúc điều kiện 2\keyBoardEvent" />
     </key>
@@ -62,7 +64,9 @@
       <workItem from="1605102354458" duration="6707000" />
       <workItem from="1605150014692" duration="14280000" />
       <workItem from="1605168332932" duration="8668000" />
-      <workItem from="1605191224957" duration="4827000" />
+      <workItem from="1605191224957" duration="5770000" />
+      <workItem from="1605197052697" duration="1896000" />
+      <workItem from="1605231997195" duration="8836000" />
     </task>
     <servers />
   </component>
@@ -74,5 +78,16 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1605167617081" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/luyenTapCauTrucDieuKien1/luyenTapCauTrucDieuKien1.html</url>
+          <line>69</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
